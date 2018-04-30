@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857288153403",
+    "firebase_url": "https://securichat.firebaseio.com",
+    "project_id": "securichat",
+    "storage_bucket": "securichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857288153403:android:86051e918cb34559",
+        "android_client_info": {
+          "package_name": "com.haroutstepanyan.securichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857288153403-p93u74cb5670sh0oa4rn3mjn8kc7e9u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haroutstepanyan.securichat",
+            "certificate_hash": "99b26b300e162e42206d07f73afb99a3a645e47b"
+          }
+        },
+        {
+          "client_id": "857288153403-suma5km2q4q07bdm4jhuogh56ujlol77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61Jn0xOFYqzcZ1fiWp_25UQj-yxSbpp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857288153403-suma5km2q4q07bdm4jhuogh56ujlol77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
